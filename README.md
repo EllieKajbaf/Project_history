@@ -21,7 +21,7 @@ Dataset:
  goal_6_score (Clean Water and Sanitation),
  goal_7_score (Affordable and Clean Energy.),
  goal_8_score (Decent Work and Economic Growth.),
- goal_9_score (Reduced Inequalities),
+ goal_9_score (Industry, Innovation and Infrastructure.),
  goal_10_score (Reduced Inequalities.),
  goal_11_score (Sustainable Cities and Communities.), 
  goal_12_score (Responsible Consumption and Production.),
