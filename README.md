@@ -37,3 +37,48 @@ Objectives:
 3.	Considering the overall score, comparing developed and developing countries from various continents.
 4.	What countries are in the top or bottom 10% than the absolute maximum and minimums?
 
+Instructions to produce the figures:
+1- Figure 1. Mean and Standard division for each goal score
+  To produce this figure, I used code : Mean_tsd.ipynb
+  To test that : mean_std_analysis_function.py, 
+                and : test_mean_std_analysis_function.py
+
+2- Figure 2. Minimum value for each goal.
+  To produce this figure, I used code : Min_goal_scores.ipynb
+  To test that: min_countries.py 
+               and : test_min_countries.py
+
+3- Figure 3. Maximum values for each goal.
+ To produce this figure, I used code : max_countries.ipynb
+ To test that: max_countries_function.py
+               and : test_max_countries_function.py
+
+4- Figure 4. The number of countries above mean for each goal.
+ To produce this figure, I used code :  above_mean_countries.ipynb
+ To test that: above_mean_countries_function.py
+              and: test_above_mean_countries_function.py
+
+5- Figure 5. The number of countries below the mean value for each goal.
+ To produce this figure, I used code : below_mean_countries.ipynb
+ To test that: below_mean_countries_function.py
+              and:  test_below_mean_countries_function.py
+
+6- Figure 6. Right: The number of countries above quantile 90. Left: Distribution of countries.
+ To produce this figure, I used code : quantile_90_countries.ipynb
+ To test that: quantile_90_countries_function.py
+              and:  test_quantile_90_countries_function.py
+
+7- Figure 7. Right: Distribution of countries. Left: The number of countries below quantile 10.
+To produce this figure, I used code : quantile_10_countries.ipynb
+ To test that: quantile_10_countries_function.py
+              and:  test_quantile_10_countries_function.py
+
+8- Figure 8. Comparing the 'No Poverty Goal Score’ with the 'Good Health and Wellbeing Score’.
+To produce this figure, I used code : relationship_between_NoPoverty_GoodHealth.ipynb 
+
+9- Figure 9. Comparing the ‘Quality Education’ with the ‘Gender Equality’.
+To produce this figure, I used code : relationship_between_QualityEducation_GenderEquality.ipynb
+
+10- Figure 10, 5 specific countries, including developed and developing countries from 5 different continents.
+To produce this figure, I used code : countries_various_continents.ipynb
+               
